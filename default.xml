@@ -283,7 +283,7 @@
   
   <project path="frameworks/base" name="android_frameworks_base" remote="roman" revision="gingerbread" />
   <project path="device/samsung/vibrantmtd" name="android_device_samsung_vibrantmtd" remote="roman" revision="gingerbread" />
-  <project path="packages/apps/Tweaks" name="EDT-Tweaks" remote="roman" revision="gingerbread-g2x" />
+  <project path="packages/apps/Tweaks" name="EDT-Tweaks" remote="roman" revision="gingerbread" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="roman"  revision="gingerbread" />
   <project path="vendor/cyanogen" name="android_vendor_cyanogen" remote="roman" revision="gingerbread" />
   <project path="device/lge/star-common" name="android_device_lge_star-common" remote="roman" revision="gingerbread" />
