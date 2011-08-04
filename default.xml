@@ -8,8 +8,12 @@
            fetch="git://github.com/"
            review="review.cyanogenmod.com" />
 
+ <remote name="roman"
+  		   fetch="ssh://git@github.com/romanbb" />
+
   <default revision="gingerbread"
            remote="korg" />
+           
 
   <project path="build" name="CyanogenMod/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
